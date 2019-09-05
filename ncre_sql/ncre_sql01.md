@@ -11,6 +11,7 @@ select * from tb_dept
 4. create viw
 5. trigger_name
 6. **function**
+
 ## 基本操作
 在考生文件夹给出的企业数据库 db_emp 中有职工表 tb_employee 和部门表 tb_dept, tb_employee包含的字段有eno(职工号)、 ename(姓名)、age(年龄)、title(职务)、 salary(工资)和 deptno(部门号), tb dept包含的字段有 deptno(部门号)、 dname(部门名称)、 manager(部门负责人)、telephone(电话)。
 
