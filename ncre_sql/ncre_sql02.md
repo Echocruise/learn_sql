@@ -7,7 +7,7 @@
   - grant get
   - trigger know
   - 存储函数 not
-  
+
 
 ## 基本操作
 在考生文件夹存有一商场信息管理系统的数据库db_mall,其包含一个记录商品有关信息的商品表 tb_commodity,该表包含的字段有商品号(cno)、商品名( cname)、商品类型(ctype)、产地(origin)、生产日期(birth)、价格( price)和产品说明(desc1)
